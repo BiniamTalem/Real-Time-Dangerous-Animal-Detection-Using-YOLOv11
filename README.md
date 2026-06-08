@@ -125,7 +125,3 @@ prepared for professional portfolio presentation.
 - Expansion to additional animal classes
 
 ---
-
-## 👤 Author
-**Mesut UGUR**  
-MSc Data Analytics  
