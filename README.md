@@ -63,7 +63,7 @@ real-time detection system** capable of operating in public environments.
 
 ## 🛠️ Technologies & Tools
 - **Python**
-- **YOLOv8 (Ultralytics)**
+- **YOLOv11 (Ultralytics)**
 - PyTorch
 - OpenCV
 - PySpark
@@ -89,7 +89,7 @@ real-time detection system** capable of operating in public environments.
 ---
 
 ### Model Training
-- YOLOv8 object detection model
+- YOLOv11 object detection model
 - Multi-class detection of dangerous animals
 - Training on augmented and real-world data
 - Evaluation using detection accuracy and inference speed
